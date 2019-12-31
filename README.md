@@ -1,8 +1,3 @@
-<p align="center">
-    <a href="https://huailiang.github.io/">
-    	<img src="https://huailiang.github.io/img/avatar-Alex.jpg" width="320" height="300">
-    </a>
-</p>
 
 本项目说明文档参考：https://huailiang.github.io/2018/03/01/combinecoding/
 
